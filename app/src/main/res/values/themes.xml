@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MangaAfriquePlus" parent="android:Theme.Material.Light.NoActionBar" />
+    <color name="sahel_green">#1B7F4E</color>
+    <color name="ink">#142018</color>
+</resources>
